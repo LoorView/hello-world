@@ -1,3 +1,3 @@
 # hello-world
-Just another repository
-We aim to be the UKs first decentralised property portal
+We aim to be the UKs first decentralised property portal, 
+Looking for devs to work with. 
